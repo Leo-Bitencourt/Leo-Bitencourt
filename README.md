@@ -1,6 +1,6 @@
 ### Olá, Me chamo Leonardo Bitencourt 
 
-- 💥 Aprimorando meus conhecimentos ...
+- 👱🏼‍♂️ Pronouns: He/Him
 - 🧠 Conhecimento em HTML / CSS
 - 🧐 Curiosidades em TypeScript / React / WordPress
-- 👱🏼‍♂️ Pronouns: He/Him
+- 💥 Aprimorando meus conhecimentos ...
