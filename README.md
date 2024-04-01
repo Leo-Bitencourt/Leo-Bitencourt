@@ -2,7 +2,6 @@
 
   - 👱🏼‍♂️ Pronouns: He/Him
   - 🧠 Conhecimento em HTML / CSS
-  - 🧐 Curiosidades em TypeScript / React / WordPress
   - 💥 Aprimorando meus conhecimentos ...
 
   ### 💻My Stack
